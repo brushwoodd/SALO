@@ -1,2 +1,2 @@
-# SALO and GORILKA
+# SALO 
 my 1st site
